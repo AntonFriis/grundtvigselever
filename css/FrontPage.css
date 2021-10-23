@@ -1,0 +1,35 @@
+
+
+.frontImg{
+    max-width: 1000px;
+    height: 475px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:10px;
+    background-size: 100% 100%;
+}
+.SecondaryBackgroundOrange,.SecondaryBackgroundRed{
+
+    height: 100%;
+
+}
+
+.space{
+    height: 100px;
+}
+
+.ButtonColor{
+    float: right;
+}
+
+.imgBox{
+    max-width: 1000px;
+    height: 300px;
+    background-size: 100% 100%;
+}
+.paddingBox{
+    padding-left: 10px;
+}
+
+
+
