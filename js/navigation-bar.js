@@ -15,13 +15,12 @@ class NavBar extends HTMLElement {
                     <li><a href="../html/FrontPage.html"><h2 class="logo">Grundtvigselever</h2></li>
                 </ul>
                 <ul class="left hide-on-med-and-down">
-                    <li><a href="../html/FrontPage.html">Kontakt</a></li>
-                    <li><a href="../html/FrontPage.html">Medlemskab</a></li>
-                    <li><a href="../html/FrontPage.html">Om os</a></li>
-                    <li><a href="../html/FrontPage.html">Årsskrift</a></li>
-                    <li><a href="../html/FrontPage.html">Legatpulje</a></li>
                     <li><a href="../html/FrontPage.html">Aktiviteter</a></li>
+                    <li><a href="../html/FrontPage.html">Legatpulje</a></li>
+                    <li><a href="../html/FrontPage.html">Årsskrift</a></li>
                     <li><a href="../html/FrontPage.html">Om os</a></li>
+                    <li><a href="../html/FrontPage.html">Medlemskab</a></li>
+                    <li><a href="../html/FrontPage.html">Kontakt</a></li>
                 </ul>
             </div>
         </nav>
